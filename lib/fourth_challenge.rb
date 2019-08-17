@@ -17,6 +17,7 @@ def fourth_challenge
         
       },
       :hero_friends => [
+<<<<<<< HEAD
         { 
           name: "Benvolio",
           age: "17",
@@ -26,6 +27,18 @@ def fourth_challenge
           name: "Mercutio",
           age: "18",
           attitude: "hot-headed"
+=======
+        #your hashes here!
+        { 
+          :name => "Benvolio",
+          :age => "17",
+          :attitute => "worried"
+        },
+        { 
+          :name => "Mercutio",
+          :age => "18",
+          :attitute => "hot-headed"
+>>>>>>> 04259cdbb362ced5e0cc71e1869fcf65246baee8
         }
       ]
    }, 
@@ -46,6 +59,7 @@ def fourth_challenge
         
       },
       :heroine_friends => [
+<<<<<<< HEAD
         { 
           name: "Steven",
           age: "30",
@@ -55,6 +69,18 @@ def fourth_challenge
           name: "Nurse",
           age: "44",
           attitude: "worried"
+=======
+        #your hashes here!
+        { 
+          :name => "Steven",
+          :age => "30",
+          :attitute => "confused"
+        },
+        { 
+          :name => "Nurse",
+          :age => "44",
+          :attitute => "worried"
+>>>>>>> 04259cdbb362ced5e0cc71e1869fcf65246baee8
         }
       ]
    }
